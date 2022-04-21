@@ -14,4 +14,4 @@ Developed for desktop and mobile. Future update will be optimized for tablet dev
 ![](solution/homepage.jpeg)
 
 ## Links
-- Live solution URL:[](https://borteyhumphrey.github.io/spenseLandingPage/)
+- Live solution URL:[Click here](https://borteyhumphrey.github.io/spenseLandingPage/)
